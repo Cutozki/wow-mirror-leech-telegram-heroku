@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-portfolio-344816",
+  "private_key_id": "5ecd8b3e29dec07f4e025706b47be99c3a05a27d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCTzH86KXczTtzK\n6LOdT2z1qfpulLNPogwFCYSUXn1lQSqhguhTU6H2TV9oqKB6gfsIsnBqLTsjNJqE\n7d5FJ1oRdfncZk1YfTfjvykXSGknuvhZO8EVb8/IvbeE01dZddDBfycY1wfCKF4r\n0/z+ixM4L0mZ+CxFevNahjlhkh8xRDPGtRhtAGA4uOUrhMbNt77HVUNlrY+jLQUX\nWDbDox+70UQdr0YBgVWyx/FaCGIw5zUlR5kDkCLk5yobDEZIaHj3NFT3MLPGbmhu\nMEuzyN+ONEWBWx4JC1yb+8HuPRVsshpCXGxS0uqumOIhbhtnNYDdQHYE0xFJE8jQ\nKjNgMDXTAgMBAAECggEAIzAVvlAu+/0zne+HC9XkGBzu7bLjefsXp39bnENe0WOR\ndcCH9Ya80bocE/vJsUEO9kQddXntUXVtsGY9e/NhgzS2Vx3YHlA5pTRW4R8xQe9G\nv1/1mVf0fVOFxM7YRglBuT+/nC9dvoED4qVm32dXHRJNEKZATA54r72zHaK/YGgC\nuPckkXJqf07vfv84cuJzV/xebAiCjuFiW8nAA1N7PLvXUgUzAf2uE6zsBfjVmm5H\nzjveHrM90ZIoycwQ0GzszaevjRAGqgIYyJEs7odP/hoJqgVX485u0v3MK4LanAK6\n4KXJcqBCXV1uTe6Lb8DwgavO0AUlCn8brGu5apNrkQKBgQDMz5XxoTEr9LMAbph5\nijE9ZxwNVR/S4pnd/nMWnenJqyVp2YlePe03tVr1+ugZNT8sXzvNMW0JrXdDJEoM\nm/Xjj/JIYTR/icSEqTNzulXpLLeKjbx2vvEKT1DrtqRzp9HOj2ClEVsDZGdoAcro\nXX8gOR86tJBkerDnmrtBrmlBuQKBgQC4vRu/HCe84DHzJP95ckVZWg8i/jYt59aE\nMDUt2JYJB76a40nWH4umZItbPXHV2Z0SCQJCAh83yTshjetyQO+mtA03BM5AkxVx\nEq0MOC+R5Zz1Kb8kGIgbgluJ4uLOcqNgwnoxiL7heLHA0NpjBhjADghRWeAupDex\nhWDvZHxp6wKBgQCLzI4u9rYXqNmeS99r5rYhkYYGW7pzOhWJACwSngt8ioPpMoGf\ngGmxgurpyDAxNLVAVmj9cOVam7sya0zYOoSmphTc7uzkuWcYnl3uepw1oz5NJt4j\nt8XUIbu8iVjLURvXAOsZATW8pQYoakDURy2FEziL28BLtauXC3kSJjjWkQKBgQCd\n0wmCUpZsWQizVbdgVMyEUlk+Jvm4bCkrE1hLS46aNmCTSHxLDvYqeBlKIItBDEGR\nJ9si81ciPKtkti8gk/NpcscbauKd7kpSKIdoOhQBy601Ea43MzIMdminuwrTHsMP\nJfZonQ+d5pPNS2BXWt0ILrTSczr//dGKuo0e17UmcwKBgQCpg1UhieKd3nQzK+R0\nHB1XjNfoiU29MyypgRvK9iLiuZPxml9TPoKcxyyMDRnfoZlJ9o8CQ/d5JtF3qMAf\n7i5rKt+3yL+XJIvYJA0kcSmsEoB31DVNZQipcR1DAbS3HTWb0eB5hk9Outq23lVb\nWmKERSkqkxUgx8a3gER691kRYQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-b-kt4kj6f8cipa1p901k0limg7@smart-portfolio-344816.iam.gserviceaccount.com",
+  "client_id": "117081145262236601029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-b-kt4kj6f8cipa1p901k0limg7%40smart-portfolio-344816.iam.gserviceaccount.com"
+}
